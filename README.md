@@ -1,4 +1,4 @@
 # myfirstrepo
 This is my repository
 <br>
-Author - Sahil Singh
+Author - Sahil Singh(Shane,Titu)
